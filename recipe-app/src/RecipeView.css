@@ -1,0 +1,16 @@
+.recipe-photo{
+    background-color: antiquewhite;
+    width: 125px;
+}
+
+.recipe-text{
+    background-color: antiquewhite;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+}
+
+.recipe-table{
+    background-color: burlywood;
+}
+

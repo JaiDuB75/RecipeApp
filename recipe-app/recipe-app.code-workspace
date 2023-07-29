@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "recipe-app",
+			"path": "."
+		},
+		{
+			"name": "RecipeApp",
+			"path": "../../RecipeApp"
+		}
+	],
+	"settings": {}
+}
